@@ -1,0 +1,16 @@
+C:\Users\za604200\source\repos\Line30 PLC reset\bin\Debug\Line30 PLC reset.exe.config
+C:\Users\za604200\source\repos\Line30 PLC reset\bin\Debug\Line30 PLC reset.exe.manifest
+C:\Users\za604200\source\repos\Line30 PLC reset\bin\Debug\Line30 PLC reset.application
+C:\Users\za604200\source\repos\Line30 PLC reset\bin\Debug\Line30 PLC reset.exe
+C:\Users\za604200\source\repos\Line30 PLC reset\bin\Debug\Line30 PLC reset.pdb
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.csproj.AssemblyReference.cache
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.csproj.SuggestedBindingRedirects.cache
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30_PLC_reset.Form1.resources
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30_PLC_reset.Properties.Resources.resources
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.csproj.GenerateResource.cache
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.csproj.CoreCompileInputs.cache
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.TrustInfo.xml
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.exe.manifest
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.application
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.exe
+C:\Users\za604200\source\repos\Line30 PLC reset\obj\Debug\Line30 PLC reset.pdb
